@@ -1,16 +1,22 @@
-## Hi there 👋
+## Привет 👋
 
-<!--
-**DanilaDool/DanilaDool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Рад тебя видеть на моём GitHub!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 DanilaDool's Codewars Stats
+
+---
+
+### 📌 Немного обо мне:
+- 🔭 Работаю над интересными проектами
+- 🌱 Постоянно учусь и прокачиваю алгоритмы
+- 🧩 Люблю решать задачки на Codewars и не только
+- 💬 Готов к новым знакомствам и идеям
+
+---
+
+### 📫 Связаться со мной:
+Пиши в [Telegram](https://t.me/@neffig0ng) или через GitHub Issues!
+
+
