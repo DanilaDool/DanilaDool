@@ -24,4 +24,4 @@
 ---
 
 ### 📫 Связаться со мной:
-Пиши в [Telegram](https://t.me/@neffig0ng)
+Пиши в Telegramm - https://t.me/@neffig0ng
