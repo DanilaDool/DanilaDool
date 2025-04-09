@@ -6,13 +6,12 @@
 
 ### 🧠 DanilaDool's Codewars Stats
 
-- **Clan**:  
-- **Position**:  
-- **Honor**:  
-- **Score**:  
-- **Solved Katas**:  
+<img src="https://www.codewars.com/users/DanilaDool/badges/large" width="350"/>
 
-![Codewars Badge](https://www.codewars.com/users/DanilaDool/badges/large)
+- **Clan**:  Solo
+- **Position**:  536,561
+- **Honor**:  159
+- **Solved Katas**:  37
 
 ---
 
